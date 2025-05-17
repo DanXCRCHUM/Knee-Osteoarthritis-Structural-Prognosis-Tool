@@ -9,14 +9,5 @@ Installation:
 
 
 Usage:
-    To use the app, you may open up the application by searching for KOSP in the windows search bar, or to use the desktop shortcut. 
-    Once more, this functions like any other regular application, similar to opening a calculator application on your computer.
+    To use the app, you may open up the application by searching for KOSP in the windows search bar, or to use the desktop shortcut. Once more, this functions like any other regular application, similar to opening a calculator application on your computer. Once opened, you may input the patient data, and click "Predict" to obtain the prognosis
 
-Input patient data when prompted:
-    Age
-    BMI
-    MCP-1 level
-    Leptin level
-    CRP level
-    Gender (enter "1" for male, "0" for female)
-    Click "Predict" to obtain the prognosis.    
