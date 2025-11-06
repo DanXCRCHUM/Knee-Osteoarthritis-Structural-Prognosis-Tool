@@ -1,4 +1,3 @@
-# Knee-Osteoarthritis-Structural-Prognosis-Tool (KOSP)
 
 # KOSP — Knee Osteoarthritis Structural Prognosis Tool
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17539544.svg)](https://doi.org/10.5281/zenodo.17539544)
