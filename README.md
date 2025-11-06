@@ -2,7 +2,7 @@
 # KOSP — Knee Osteoarthritis Structural Prognosis Tool
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17539544.svg)](https://doi.org/10.5281/zenodo.17539544)
 
-KOSP is a clinically oriented software application designed to predict the risk of **rapid structural progression** in knee osteoarthritis. Using imaging (magnetic resonance imaging and radiography)–derived biomarkers and two osteoarthritis risk factors, KOSP provides prognostic insights to help clinicians identify higher-risk patients earlier and plan personalized interventions.
+KOSP is a clinically oriented software application designed to predict the risk of rapid structural progression in knee osteoarthritis. Based on imaging (magnetic resonance imaging and radiography) data for the outcomes, KOSP evaluates three biomarkers and two osteoarthritis risk factors to generate prognostic insights. By analyzing these parameters, KOSP assists healthcare professionals in identifying patients at an elevated risk of joint deterioration, facilitating earlier interventions and personalized treatment planning. Seamlessly integrated into clinical workflows, KOSP offers evidence-based support for specialists aiming to monitor and manage knee osteoarthritis with precision.
 
 ---
 
@@ -37,7 +37,4 @@ Bonakdari D, Martel-Pelletier J, *et al.* **KOSP (Knee Osteoarthritis Structural
 ## Troubleshooting
 - **Runtime not found / app won’t start:** Re-run the installer and ensure **MATLAB Runtime R2024a** is installed.
 - **Windows “Protected your PC” message:** Use **More info → Run anyway** (see Install step 3).
-
-## License
-Specify the project license here (e.g., **MIT**). If not yet licensed, add a `LICENSE` file to the repo.
 
