@@ -28,6 +28,8 @@ Usage
 To launch the application.
 
 •	To use the application, you may open it by searching for KOSP in the Windows search bar or by using the desktop shortcut. 
+
 •	Once opened, input the patient data and click "Predict" to generate the prognosis. This interface functions similarly to standard desktop applications, such as a calculator.
 This project was developed using MATLAB R2024a.
+
 The application has been archived on Zenodo to ensure long-term accessibility and reproducibility. A DOI (10.5281/zenodo.xxxxxxx) has been assigned for citation purposes.
