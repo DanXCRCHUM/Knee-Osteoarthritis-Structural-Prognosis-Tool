@@ -15,9 +15,9 @@ Installation Instructions
 •	It will now give the option to run anyway. Please run the installer.
 •	The installer will ask for: 
 	- the destination of the files;
-  - whether you'd like a desktop shortcut; 
-  - to download MATLAB Runtime (required only once), then it will ask for a confirmation; 
-  -	click "Next" for these steps and "Begin install". This download will only need to happen once.
+  	- whether you'd like a desktop shortcut; 
+ 	- to download MATLAB Runtime (required only once), then it will ask for a confirmation; 
+	- click "Next" for these steps and "Begin install". This download will only need to happen once.
 
     
 Usage 
