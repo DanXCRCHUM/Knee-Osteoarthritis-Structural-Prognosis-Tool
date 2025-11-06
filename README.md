@@ -14,6 +14,7 @@ Installation Instructions
 4.	Follow the installation steps.	
 
 •	It will now give the option to run anyway. Please run the installer.
+
 •	The installer will ask for:
 
 	- the destination of the files;
