@@ -11,8 +11,10 @@ Installation Instructions
 
 3.	Windows Defender warning. A security prompt may appear stating your PC could be at risk. This is a standard Windows Defender message. Click "More info", then select "Run anyway" to proceed.
 
-4.	Follow the installation steps. 
+4.	Follow the installation steps.
+   
 •	It will now give the option to run anyway. Please run the installer.
+
 •	The installer will ask for: 
 	- the destination of the files;
   	- whether you'd like a desktop shortcut; 
