@@ -25,7 +25,7 @@ Installation Instructions
     
 Usage 
 
-To launch the application.
+To launch the application:
 
 •	To use the application, you may open it by searching for KOSP in the Windows search bar or by using the desktop shortcut. 
 
