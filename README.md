@@ -32,7 +32,7 @@ This project is archived on **Zenodo** for long-term accessibility and reproduci
 **Version DOI:** https://doi.org/10.5281/zenodo.17539544
 
 ## How to cite
-Bonakdari D, Martel-Pelletier J, *et al.* **KOSP (Knee Osteoarthritis Structural Prognosis Tool)**, *v1.0.1*. Zenodo. https://doi.org/10.5281/zenodo.17539544
+Bonakdari D, Martel-Pelletier J, *et al.* **KOSP (Knee Osteoarthritis Structural Prognosis Tool)**, *v1.0.0*. Zenodo. https://doi.org/10.5281/zenodo.17539544
 
 ## Troubleshooting
 - **Runtime not found / app won’t start:** Re-run the installer and ensure **MATLAB Runtime R2024a** is installed.
